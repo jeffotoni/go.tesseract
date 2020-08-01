@@ -1,0 +1,2 @@
+# go.tesseract
+tesseract
